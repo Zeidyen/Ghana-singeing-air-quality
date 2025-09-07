@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: "Ghana Singeing Air Quality"
+message: "If you use this repository, please cite it as below."
+type: software
+authors:
+  - family-names: Anafo
+    given-names: Abdulzeid Yen
+# If you pick Apache-2.0, change this to "Apache-2.0"
+license: MIT
+version: 0.1.0
+date-released: 2025-09-07
+repository-code: https://github.com/USERNAME/REPO
+url: https://github.com/USERNAME/REPO
+keywords:
+  - air-pollution
+  - ghana
+  - environmental-health
+  - emissions
+  - pm25
+  - pm10
+  - so2
+  - co
+  - vocs
