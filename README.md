@@ -14,6 +14,12 @@ pollution/data/
 ## Privacy
 Remove personally identifiable info and precise coordinates if sensitive.
 
+## Ethics & Data Availability
+This study received ethics approval from CSIR Ghana (Protocol CSIR-IRB0046/2024).
+Raw/linked datasets are **restricted** and not posted here. See:
+- [ETHICS.md](./ETHICS.md)
+- [DATA_AVAILABILITY.md](./DATA_AVAILABILITY.md)
+
 
 ## How to run (locally)
 
