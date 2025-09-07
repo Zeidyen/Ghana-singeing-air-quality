@@ -13,3 +13,17 @@ pollution/data/
 
 ## Privacy
 Remove personally identifiable info and precise coordinates if sensitive.
+
+
+## How to run (locally)
+
+> Assumes your cleaned hourly CSV is at `pollution/data/processed/merged_hourly.csv`.
+
+### macOS / Linux
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+
+python -m src.stats pollution/data/processed/merged_hourly.csv pollution/reports/tables
+ls pollution/reports/tables
