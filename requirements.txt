@@ -1,9 +1,8 @@
-numpy
 pandas
-matplotlib
-seaborn
+numpy
 scipy
 statsmodels
 patsy
-pygam
-pingouin
+matplotlib
+openpyxl
+pillow

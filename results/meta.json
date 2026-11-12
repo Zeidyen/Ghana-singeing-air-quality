@@ -1,0 +1,43 @@
+{
+ "cleaning": {
+  "AM": {
+   "rows_in_sheet": 361,
+   "unlabelled_rows_dropped": 1,
+   "pm_rows_swapped": 212,
+   "AT_gt45_set_missing": 0,
+   "RH_lt50_set_missing": 2,
+   "rows_analysed": 360
+  },
+  "AV": {
+   "rows_in_sheet": 360,
+   "unlabelled_rows_dropped": 0,
+   "pm_rows_swapped": 235,
+   "interpolated_gas_rows_set_missing": 42,
+   "AT_gt45_set_missing": 0,
+   "RH_lt50_set_missing": 3,
+   "rows_analysed": 360
+  },
+  "JM": {
+   "rows_in_sheet": 360,
+   "unlabelled_rows_dropped": 0,
+   "pm_rows_swapped": 189,
+   "AT_gt45_set_missing": 0,
+   "RH_lt50_set_missing": 2,
+   "rows_analysed": 360
+  },
+  "TL": {
+   "rows_in_sheet": 359,
+   "unlabelled_rows_dropped": 0,
+   "pm_rows_swapped": 359,
+   "AT_gt45_set_missing": 1,
+   "RH_lt50_set_missing": 1,
+   "rows_analysed": 359
+  }
+ },
+ "z": {
+  "AT_mean": 31.464812239221143,
+  "AT_sd": 3.2662973424613275,
+  "RH_mean": 85.55310971348707,
+  "RH_sd": 5.308850221335117
+ }
+}
